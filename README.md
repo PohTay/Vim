@@ -1,2 +1,2 @@
-# Vim
-Vim Repository
+# GVim
+GVim Repository for .vimrc
